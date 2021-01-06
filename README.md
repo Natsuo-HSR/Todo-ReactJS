@@ -2,6 +2,7 @@
 
 Todo list - simple website to track tasks and goals, plan your day.
 View on GitHub Pages - https://natsuo-hsr.github.io/Todo-ReactJS/
+
 Functionality:
   * Creating a one-time task (you can create a task for a specific day, set a deadline).
   * Creating a regular task (it has the same functionality as a regular task,
